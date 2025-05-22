@@ -18,9 +18,3 @@ A simple and elegant quote generator built with HTML, CSS, and JavaScript. It us
 - JavaScript (Fetch API)
 - [API Ninjas Quotes API](https://api-ninjas.com/api/quotes)
 
-## 📦 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/quote-generator.git
-   cd quote-generator
